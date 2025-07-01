@@ -137,8 +137,3 @@ Choosing the right fine-tuning strategy requires balancing performance, cost, an
 
 ---
 
-## 👤 Author
-
-**Mohamed Elayech**  
-Computer Engineering Student & AI Enthusiast
-
